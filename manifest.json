@@ -38,7 +38,7 @@
 			"id": "malicious",
 			"enabled": true,
 			"path": "rulesets/malicious.json"
-		}{
+		}, {
 			"id": "malicious_main",
 			"enabled": true,
 			"path": "rulesets/malicious_main.json"
