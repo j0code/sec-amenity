@@ -1,0 +1,243 @@
+[
+	{
+    "id": 1,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "aristianewr.club"
+		}
+  }, {
+    "id": 2,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "browserr.top"
+		}
+  }, {
+    "id": 3,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "dadsats.com"
+		}
+  }, {
+    "id": 4,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "lyzenoti.pro"
+		}
+  }, {
+    "id": 5,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "sni.cloudflaressl.com"
+		}
+  }, {
+    "id": 6,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "rotumal.com"
+		}
+  }, {
+    "id": 7,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "whugesto.net"
+		}
+  }, {
+    "id": 8,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "betemolgar.com"
+		}
+  }, {
+    "id": 9,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "ttgmjfgldgv9ed9990.com"
+		}
+  }, {
+    "id": 10,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "aclickads.com"
+		}
+  }, {
+    "id": 11,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "graizoah.com"
+		}
+  }, {
+    "id": 12,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "viatepigan.com"
+		}
+  }, {
+    "id": 13,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "mypushz.com"
+		}
+  }, {
+    "id": 14,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "pushpush.net"
+		}
+  }, {
+    "id": 15,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "unelekidan.com"
+		}
+  }, {
+    "id": 16,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "ofgogoatan.com"
+		}
+  }, {
+    "id": 17,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "dutanglee.com"
+		}
+  }, {
+    "id": 18,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "0f1b6a831c.fun"
+		}
+  }, {
+    "id": 19,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "apprefaculty.pro"
+		}
+  }, {
+    "id": 20,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "il05pzhujicf.com"
+		}
+  }, {
+    "id": 21,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "reifefrauen-date.com"
+		}
+  }, {
+    "id": 22,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "zlink2.com"
+		}
+  }, {
+    "id": 23,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "facesnotebook.com"
+		}
+  }, {
+    "id": 24,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "3r1kwxcd.top"
+		}
+  }, {
+    "id": 25,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "zuphaims.com"
+		}
+  }, {
+    "id": 26,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "comfortlessweave.com"
+		}
+  }, {
+    "id": 27,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "flirt4fuck.com"
+		}
+  }, {
+    "id": 28,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "platincasino.com"
+		}
+  }, {
+    "id": 29,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "interwetten.de"
+		}
+  }, {
+    "id": 30,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "mauchopt.net"
+		}
+  }
+]

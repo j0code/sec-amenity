@@ -1,242 +1,242 @@
 [
 	{
     "id": 1,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "aristianewr.club"
 		}
   }, {
     "id": 2,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "browserr.top"
 		}
   }, {
     "id": 3,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "dadsats.com"
 		}
   }, {
     "id": 4,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "lyzenoti.pro"
 		}
   }, {
     "id": 5,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "sni.cloudflaressl.com"
 		}
   }, {
     "id": 6,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "rotumal.com"
 		}
   }, {
     "id": 7,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "whugesto.net"
 		}
   }, {
     "id": 8,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "betemolgar.com"
 		}
   }, {
     "id": 9,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
-			"urlFilter": "ttgmjfgldgv9ed10.com"
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"urlFilter": "ttgmjfgldgv9ed9990.com"
 		}
   }, {
     "id": 10,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "aclickads.com"
 		}
   }, {
     "id": 11,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "graizoah.com"
 		}
   }, {
     "id": 12,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "viatepigan.com"
 		}
   }, {
     "id": 13,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "mypushz.com"
 		}
   }, {
     "id": 14,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "pushpush.net"
 		}
   }, {
     "id": 15,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "unelekidan.com"
 		}
   }, {
     "id": 16,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "ofgogoatan.com"
 		}
   }, {
     "id": 17,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "dutanglee.com"
 		}
   }, {
     "id": 18,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "0f1b6a831c.fun"
 		}
   }, {
     "id": 19,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "apprefaculty.pro"
 		}
   }, {
     "id": 20,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "il05pzhujicf.com"
 		}
   }, {
     "id": 21,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "reifefrauen-date.com"
 		}
   }, {
     "id": 22,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "zlink2.com"
 		}
   }, {
     "id": 23,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "facesnotebook.com"
 		}
   }, {
     "id": 24,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "3r1kwxcd.top"
 		}
   }, {
     "id": 25,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "zuphaims.com"
 		}
   }, {
     "id": 26,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "comfortlessweave.com"
 		}
   }, {
     "id": 27,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "flirt4fuck.com"
 		}
   }, {
     "id": 28,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "platincasino.com"
 		}
   }, {
     "id": 29,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "interwetten.de"
 		}
   }, {
     "id": 30,
-    "priority": 1,
-    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "priority": 999,
+    "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "mauchopt.net"
 		}
   }
