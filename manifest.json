@@ -1,0 +1,72 @@
+{
+	"manifest_version": 3,
+	"name": "__MSG_extname__",
+	"version": "0.2022.2.1",
+	"default_locale": "en",
+	"description": "__MSG_extdesc__",
+	"author": "j0code",
+	"short_name": "sec-am",
+	"version_name": "dev 2020-02 1",
+
+	"action": {
+		"default_title": "__MSG_extname__",
+		"default_popup": "popup.html"
+	},
+
+	"icons": {
+
+	},
+
+	"background": {
+		"service_worker": "background.js"
+	},
+
+	"omnibox": {
+		"keyword": "sec"
+	},
+
+	"options_page": "options.html",
+	"options_ui": {
+		"page": "options.html"
+	},
+
+	"permissions": ["declarativeNetRequest","declarativeNetRequestFeedback"],
+	"host_permissions": ["<all_urls>"],
+
+	"declarative_net_request": {
+		"rule_resources": [{
+			"id": "malicious",
+			"enabled": true,
+			"path": "rulesets/malicious.json"
+		}, {
+			"id": "possibly_malicious",
+			"enabled": true,
+			"path": "rulesets/possibly_malicious.json"
+		}, {
+			"id": "bad_ads",
+			"enabled": true,
+			"path": "rulesets/bad_ads.json"
+		}, {
+			"id": "ads",
+			"enabled": true,
+			"path": "rulesets/ads.json"
+		}, {
+			"id": "facebook",
+			"enabled": true,
+			"path": "rulesets/facebook.json"
+		}, {
+			"id": "trackers",
+			"enabled": true,
+			"path": "rulesets/trackers.json"
+		}, {
+			"id": "upgrade",
+			"enabled": true,
+			"path": "rulesets/upgrade.json"
+		}, {
+			"id": "debug",
+			"enabled": false,
+			"path": "rulesets/debug.json"
+		}]
+	}
+
+}

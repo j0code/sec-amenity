@@ -1,0 +1,10 @@
+{
+	"extname": {
+		"message": "Security Amenity",
+		"description": "Extension name."
+	},
+	"extdesc": {
+		"message": "Improves browser security by blocking domains and more",
+		"description": "Extension description."
+	}
+}
