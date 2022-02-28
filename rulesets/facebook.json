@@ -2,9 +2,17 @@
 	{
     "id": 1,
     "priority": 2,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "facebook.com"
+		 }
+  }, {
+    "id": 2,
+    "priority": 2,
     "action": { "type": "block" },
     "condition": {
-			"resourceTypes": ["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "facebook.com"
 		 }
   }
