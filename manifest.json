@@ -38,10 +38,18 @@
 			"id": "malicious",
 			"enabled": true,
 			"path": "rulesets/malicious.json"
+		}{
+			"id": "malicious_main",
+			"enabled": true,
+			"path": "rulesets/malicious_main.json"
 		}, {
 			"id": "possibly_malicious",
 			"enabled": true,
 			"path": "rulesets/possibly_malicious.json"
+		}, {
+			"id": "possibly_malicious_main",
+			"enabled": true,
+			"path": "rulesets/possibly_malicious_main.json"
 		}, {
 			"id": "bad_ads",
 			"enabled": true,
