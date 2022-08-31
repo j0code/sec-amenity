@@ -1,12 +1,12 @@
 {
 	"manifest_version": 3,
 	"name": "__MSG_extname__",
-	"version": "0.2022.2.1",
+	"version": "2022.8.31",
 	"default_locale": "en",
 	"description": "__MSG_extdesc__",
 	"author": "j0code",
 	"short_name": "sec-am",
-	"version_name": "dev 2020-02 1",
+	"version_name": "2022-08-31",
 
 	"action": {
 		"default_title": "__MSG_extname__",

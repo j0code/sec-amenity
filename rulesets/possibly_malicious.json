@@ -199,5 +199,21 @@
 			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "shopasto.com"
 		 }
+  }, {
+    "id": 27,
+    "priority": 999,
+    "action": { "type": "block" },
+    "condition": {
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"urlFilter": "onlinecasinoground.nl/"
+		 }
+  }, {
+    "id": 28,
+    "priority": 999,
+    "action": { "type": "block" },
+    "condition": {
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"urlFilter": "nagamarkets.com"
+		 }
   }
 ]

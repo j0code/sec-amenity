@@ -239,5 +239,29 @@
 			"resourceTypes": ["main_frame"],
 			"urlFilter": "mauchopt.net"
 		}
+  }, {
+    "id": 31,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "glersakr.com"
+		}
+  }, {
+    "id": 32,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "parkcircularpearl.com"
+		}
+  }, {
+    "id": 33,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "thaudray.com"
+		}
   }
 ]

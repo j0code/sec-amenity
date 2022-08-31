@@ -199,5 +199,21 @@
 			"resourceTypes": ["main_frame"],
 			"urlFilter": "shopasto.com"
 		 }
+  }, {
+    "id": 27,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "onlinecasinoground.nl/"
+		 }
+  }, {
+    "id": 28,
+    "priority": 999,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/blocked.html" } },
+    "condition": {
+			"resourceTypes": ["main_frame"],
+			"urlFilter": "nagamarkets.com"
+		 }
   }
 ]

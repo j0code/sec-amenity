@@ -239,5 +239,29 @@
 			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
 			"urlFilter": "mauchopt.net"
 		}
+  }, {
+    "id": 31,
+    "priority": 999,
+    "action": { "type": "block" },
+    "condition": {
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"urlFilter": "glersakr.com"
+		}
+  }, {
+    "id": 32,
+    "priority": 999,
+    "action": { "type": "block" },
+    "condition": {
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"urlFilter": "parkcircularpearl.com"
+		}
+  }, {
+    "id": 33,
+    "priority": 999,
+    "action": { "type": "block" },
+    "condition": {
+			"resourceTypes": ["sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","webtransport","webbundle","other"],
+			"urlFilter": "thaudray.com"
+		}
   }
 ]
